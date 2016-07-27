@@ -8,7 +8,7 @@ export default class Main extends React.Component {
 
   render() {
     return (
-      <h1>Root of Components</h1>
+      <div id="all"> Root of Components</div>
     );
   }
 }
